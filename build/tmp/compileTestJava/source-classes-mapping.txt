@@ -1,0 +1,6 @@
+io/qaguru/mn/LambdaStepTest.java
+ io.qaguru.mn.LambdaStepTest
+io/qaguru/mn/MethodStepTest.java
+ io.qaguru.mn.MethodStepTest
+io/qaguru/mn/GitHubIssueTest1.java
+ io.qaguru.mn.GitHubIssueTest1
